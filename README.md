@@ -13,5 +13,9 @@ This project demonstrates how to use WebSocket to interact with the Microsoft On
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/my-onedrive-project.git
-   cd my-onedrive-project
+   git clone https://github.com/kunalmkv/onedrive.git
+   cd onedrive
+   npm i
+   node server/index.js
+   node client/index.js
+   ```
